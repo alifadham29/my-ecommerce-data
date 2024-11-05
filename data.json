@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Basic T-Shirt",
+        "price": 19.99,
+        "description": "A classic cotton t-shirt.",
+        "image": "tshirt.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Denim Jeans",
+        "price": 49.99,
+        "description": "Comfortable and stylish jeans.",
+        "image": "jeans.jpg"
+    }
+]
